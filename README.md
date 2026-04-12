@@ -5,13 +5,13 @@ Ayabukwa Buli
 PROG5121
 ---
 
-## Projrct Infomation
+## Project Infomation
 The three class that were done were Login.Jva, Main.App and LoginTest .Java
 the project main objective is to be able tp allow users to login into the chatapp using their username,phone number and password 
 the three class allow the user to fo that and LoginTest.Java test whether the code can actually work and also if the given information 
-of the user is not correct the is will diplay a invaild message. 
+of the user is not correct the is will display an invaild message. 
 ---
-##Features used 
+## Features used 
 ---
 ### User vaildation
 this is used to make sure that users enter the correct information in order to access the chatapp
@@ -28,4 +28,5 @@ and this allows the uer to recieve messages from the chatapp
  ### Login.Java
  
  ### Main.App
+ 
  ### LoginTest.Java 
