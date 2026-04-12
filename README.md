@@ -6,7 +6,7 @@ PROG5121
 ---
 
 ## Project Infomation
---
+---
 The three classes that were done were Login.Java, Main.App and LoginTest .Java
 the project main objective of these classes is to allow users to be able to login into the chatapp using their username,phone number and password.
 The three classes allow the users to login the chatapp to make sure the app works we used a class called 
